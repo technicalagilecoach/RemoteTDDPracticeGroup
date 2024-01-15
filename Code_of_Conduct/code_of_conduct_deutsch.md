@@ -6,7 +6,7 @@
 Wir als Mitglieder, Teilnehmende und Verantwortliche unserer Gemeinschaft
 verpflichten uns, allen Teilnehmenden an dem Projekt und unserer Gemeinschaft
 eine belästigungsfreie Beteiligung, unabhängig von Alter, Körpergröße,
-Behinderung, ethnischer Zuordnung, Geschlechtermerkmalen, -identität und
+Behinderung, chronischen Erkrankungen, Neurodiversität, ethnischer Zuordnung, Geschlechtermerkmalen, -identität und
 -ausdruck, Grad der Erfahrung, Bildung, sozialem Status, Nationalität,
 persönlicher Erscheinung, Rasse, Kaste, Hautfarbe, Religion oder sexueller
 Identität und Orientierung zu ermöglichen.
@@ -65,7 +65,7 @@ oder Offline-Veranstaltung.
 ## Durchsetzung
 
 Fälle von missbräuchlichem, belästigendem oder anderweitig inakzeptablem
-Verhalten können unter [KONTAKTMETHODE EINFÜGEN] der für die Durchsetzung
+Verhalten können unter <https://www.technicalagile.coach/kontakt/> der für die Durchsetzung
 zuständigen Gemeinschaftsleitung gemeldet werden. Alle Beschwerden werden
 zeitnah und fair geprüft und ermittelt.
 
